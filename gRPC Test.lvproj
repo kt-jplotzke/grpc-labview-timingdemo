@@ -36,7 +36,7 @@
 	</Item>
 	<Item Name="02590-DEV-002" Type="RT PXI Chassis">
 		<Property Name="alias.name" Type="Str">02590-DEV-002</Property>
-		<Property Name="alias.value" Type="Str">10.10.8.191</Property>
+		<Property Name="alias.value" Type="Str">02590-DEV-002</Property>
 		<Property Name="CCSymbols" Type="Str">TARGET_TYPE,RT;OS,Linux;CPU,x64;</Property>
 		<Property Name="host.ResponsivenessCheckEnabled" Type="Bool">true</Property>
 		<Property Name="host.ResponsivenessCheckPingDelay" Type="UInt">5000</Property>
